@@ -23,7 +23,7 @@ class SolarSec:
         id: int = flask.request.args.get("id")
         try:    id = int(id)
         except: return flask.jsonify(flask_dterror()['Error'].format(type(flask.request.args.get("id"))))
-        if id == None:  return flask.jsonify(flask_noiderr())
+        if id is None:  return flask.jsonify(flask_noiderr())
 
         """
             Our real backend would now index through a json CONFIG here, we would not like to share this code due to security purposes.
