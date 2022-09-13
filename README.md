@@ -10,7 +10,7 @@
 ```python ... Webserver_port rate_limit_port debug```
 
 ## Visitor-lookup prefix
-> CUR L<br >
+> CURL <br >
 `curl -X GET http://....:.../api/v1/script?id=...` <br >
 > Python <br >
 ```py
