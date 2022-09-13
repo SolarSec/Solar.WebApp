@@ -10,12 +10,12 @@
 ```python ... Webserver_port rate_limit_port debug```
 
 ## Visitor-lookup prefix
-> CURL
+> CUR L<br >
 `curl -X GET http://....:.../api/v1/script?id=...` <br >
-> Python
+> Python <br >
 ```py
 import requests,json
 
 with requests.get("http://...:.../api/v1/scripts?id=...") as API_Reference:
     Response = json.dumps(API_Reference.text)
-```
+``` <br >
