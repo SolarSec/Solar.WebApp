@@ -4,5 +4,5 @@
 
 ## How-to use.
 ### Basic Requirements
-  *[Python 3.10]*(https://www.python.org/downloads/release/python-3100/)
-  *V(d/p)S* *[OVH]*(https://www.ovh.com/world//)
+  [^1]: *[Python 3.10]*(https://www.python.org/downloads/release/python-3100/)
+  [^2]: *V(d/p)S* *[OVH]*(https://www.ovh.com/world//)
