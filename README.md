@@ -3,4 +3,6 @@
 > SolarSec web-app backend made for [Solar Security](https://solarsec.fbi.gov/) Version 0.01
 
 ## How-to use.
-Using [Python 3.10](https://www.python.org/downloads/release/python-3100/)
+### Basic Requirements
+  *[Python 3.10]*(https://www.python.org/downloads/release/python-3100/)
+  *V(d/p)S* *[OVH]*(https://www.ovh.com/world//)
