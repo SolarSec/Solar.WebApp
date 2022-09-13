@@ -6,3 +6,4 @@
 ### Basic Requirements
   > [**Python 3.10**](https://www.python.org/downloads/release/python-3100/),
   > [**VPS**](https://www.ovh.com/world/)
+`python ... Webserver_port rate_limit_port debug`
