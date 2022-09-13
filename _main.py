@@ -19,7 +19,6 @@ class SolarSec:
     
     @app.route("/api/v1/scripts")
     def _scripts () -> str:
-        """try:"""
         id: int = flask.request.args.get("id")
         try:    id = int(id)
         except: return flask.jsonify(flask_dterror()['Error'].format(type(flask.request.args.get("id"))))
